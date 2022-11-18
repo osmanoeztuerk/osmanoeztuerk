@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="header2" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="badges"  align="center">
