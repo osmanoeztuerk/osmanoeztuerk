@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @osmanoeztuerk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 osmanoeztuerk/osmanoeztuerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -30,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :man_technologist: About Me : I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland 	:switzerland:. 
+### :man_technologist: About Me : I am a Data Analyst from Switzerland  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/CH-Switzerland-Flag-icon.png" width="30">. 
