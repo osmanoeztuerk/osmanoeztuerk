@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 - :seedling: Exploring Data Analyst/Scientist Projects.
 
 - :zap: In my free time, I read tech books and articles. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osmanoztuerk)
