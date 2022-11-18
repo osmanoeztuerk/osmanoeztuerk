@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<img  align="center" src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/osmanoztuerk">
@@ -29,3 +29,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://w7.pngwing.com/pngs/379/660/png-transparent-assorted-cartoon-character-data-analysis-user-big-data-information-register-new-user-avatar-heroes-text-head.png" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
