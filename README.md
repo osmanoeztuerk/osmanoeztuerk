@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<img align="center" src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
+<div id="header2" align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/osmanoztuerk">
