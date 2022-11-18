@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :man_technologist: About Me : I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland.
+### :man_technologist: About Me : I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland 	:switzerland:. 
