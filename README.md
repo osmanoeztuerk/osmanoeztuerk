@@ -17,7 +17,7 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 <img src="https://komarev.com/ghpvc/?username=osmanoeztuerk&style=flat-square&color=blue" alt=""/>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/osmanoztuerk/)">
+  <a href="https://www.linkedin.com/in/osmanoztuerk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
