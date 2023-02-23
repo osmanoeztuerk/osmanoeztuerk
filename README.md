@@ -44,3 +44,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>
    <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" title="tableau" **alt="tableau" width="40" height="40"/>
 </div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tenserflow" **alt="tenserflow" width="40" height="40"/>
+</div>
+
+
