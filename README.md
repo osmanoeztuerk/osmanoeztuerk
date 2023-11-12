@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :man_technologist: About Me : I am a Data Analyst from Switzerland.  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/512px-Flag_of_Switzerland.svg.png" width="20">
-- :telescope: I’m not working at the moment but learning German.
 
 - :seedling: Exploring Data Analyst/Scientist Projects.
 
